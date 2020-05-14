@@ -1,0 +1,680 @@
+,Mine State,Mine Status,Mine Type,Company Type,Operation Type,Coal Supply Region,Mine County with rare,Production (short tons),Prediction of coal production,Average Employees,Labor Hours
+0,Alabama,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Bibb,113221,99204,16,38882
+1,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,278489,260169,43,122091
+2,Alabama,Active,Underground,Operating Subsidiary,Mine only,Appalachia Southern,Jefferson,1497321,2217373,446,869485
+3,Alabama,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Southern,Jefferson,5597175,3869613,863,2211196
+4,Alabama,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,220827,159842,37,94817
+5,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,140673,96523,19,43695
+6,Alabama,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,192294,140277,37,94450
+7,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,30892,9583,4,5040
+8,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,352807,293313,60,157107
+9,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,146178,100438,28,49940
+10,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Jefferson,71465,60021,24,29875
+11,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Marion,15618,14153,5,4954
+12,Alabama,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Shelby,126565,147591,35,82121
+13,Alabama,"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Southern,Shelby,11091,180017,84,177417
+14,Alabama,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Southern,Tuscaloosa,2137810,1834662,375,1029824
+15,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Tuscaloosa,184971,225270,52,126218
+16,Alabama,Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Tuscaloosa,3364,9766,6,6600
+17,Alabama,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Southern,Walker,195268,290728,57,155600
+18,Alabama,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Southern,Walker,2659074,2257080,432,930321
+19,Alabama,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,48092,10916,5,6142
+20,Alabama,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,4838,14240,7,7981
+21,Alabama,Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,107999,63515,19,34862
+22,Alabama,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,104640,83189,24,58713
+23,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,183824,162116,36,83001
+24,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,214863,252526,42,116105
+25,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,44804,105936,14,50077
+26,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,20665,9723,4,7020
+27,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,3072,5469,4,1980
+28,Alabama,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,70115,32652,6,14640
+29,Alabama,Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Southern,Walker,5102,5402,3,1713
+30,Alaska,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Western,Rare,901641,1080580,99,184329
+31,Arizona,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Western,Navajo,6550417,5951282,416,1003422
+32,Colorado,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Uinta Region,Gunnison,4674833,3259401,300,660221
+33,Colorado,Active,Underground,Indepedent Producer Operator,Mine only,Western,La Plata,615947,523725,83,179752
+34,Colorado,Active,Surface,Indepedent Producer Operator,Mine only,Uinta Region,Moffat,2140461,2116141,199,410783
+35,Colorado,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Uinta Region,Moffat,1470896,2777707,229,453703
+36,Colorado,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Uinta Region,Rio Blanco,2073860,1756683,162,342141
+37,Colorado,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Uinta Region,Routt,3049511,3037097,285,622523
+38,Illinois,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Franklin,14460951,8434280,444,1162078
+39,Illinois,Active,Surface,Operating Subsidiary,Mine only,Illinois Basin,Gallatin,407823,564590,52,117413
+40,Illinois,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Hamilton,6298997,4138120,319,780545
+41,Illinois,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Macoupin,1947164,1598261,149,336963
+42,Illinois,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Perry,76625,59244,11,23107
+43,Illinois,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Perry,3944857,2935842,270,604227
+44,Illinois,Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Perry,102833,35126,5,7057
+45,Illinois,Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Perry,301263,276214,17,43256
+46,Illinois,Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Randolph,172233,130419,14,28351
+47,Illinois,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Randolph,3087530,3130327,211,486094
+48,Illinois,Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Randolph,316215,278548,20,38656
+49,Illinois,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Saline,1330804,2746778,242,544564
+50,Illinois,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Saline,968909,1463574,116,282343
+51,Illinois,"Active, men working, not producing",Surface,Contractor,Mine only,Illinois Basin,Saline,106333,160348,13,35061
+52,Illinois,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Sangamon,1782322,2163305,267,526882
+53,Illinois,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Wabash,1038995,1030494,80,213595
+54,Illinois,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Washington,6331873,6545924,454,1135544
+55,Illinois,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Williamson,6887728,4778607,228,549386
+56,Indiana,Active,Surface,Operating Subsidiary,Mine only,Illinois Basin,Clay,265835,360648,31,65367
+57,Indiana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Daviess,816793,996012,80,200679
+58,Indiana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Daviess,1372359,1373075,108,270843
+59,Indiana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Dubois,1386346,1365530,130,316228
+60,Indiana,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Dubois,156361,73912,17,31698
+61,Indiana,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Gibson,880563,812023,96,283945
+62,Indiana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Gibson,1973018,2253475,176,439811
+63,Indiana,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Gibson,2135200,2293842,244,575143
+64,Indiana,Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Gibson,6996941,4367034,365,1163982
+65,Indiana,Active,Underground,Operating Subsidiary,Mine only,Illinois Basin,Knox,4071835,3499192,341,778705
+66,Indiana,Active,Underground,Operating Subsidiary,Mine only,Illinois Basin,Knox,2866699,2214410,273,679567
+67,Indiana,Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Sullivan,404555,78348,57,126566
+68,Indiana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Sullivan,6885899,7623037,607,1334489
+69,Indiana,Permanently abandoned,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Warrick,184096,101031,26,60699
+70,Indiana,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Warrick,961481,1189449,86,260854
+71,Indiana,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Warrick,2559312,2468116,172,384957
+72,Indiana,Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Warrick,419232,141685,16,30051
+73,Indiana,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Warrick,261682,43146,10,14089
+74,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,116743,88326,13,40611
+75,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,70011,92159,19,36583
+76,Kentucky (East),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,1402,1921,2,449
+77,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,9915,41045,13,16966
+78,Kentucky (East),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Bell,30732,58855,15,18912
+79,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,25630,65008,15,22652
+80,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Central,Bell,334308,476964,127,313878
+81,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,199265,114739,24,62270
+82,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Bell,7057,4462,15,2886
+83,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Breathitt,39236,29698,4,8967
+84,Kentucky (West),Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Daviess,191591,244049,18,50473
+85,Kentucky (West),Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Daviess,12232,25072,3,6762
+86,Kentucky (West),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Daviess,1270,1883,2,213
+87,Kentucky (West),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Daviess,58425,26951,4,8827
+88,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Floyd,90867,112613,21,44762
+89,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Floyd,330553,343912,65,173038
+90,Kentucky (East),Temporarily closed,Underground,Operating Subsidiary,Mine only,Appalachia Central,Floyd,270306,205451,41,98685
+91,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Floyd,98787,104817,21,40212
+92,Kentucky (East),Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Floyd,15068,31884,15,18080
+93,Kentucky (East),Permanently abandoned,Underground,Operating Subsidiary,Mine only,Appalachia Central,Floyd,29780,38578,23,11745
+94,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Floyd,2305,6904,9,3399
+95,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Harlan,469644,487162,104,258897
+96,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Harlan,190144,487162,112,250616
+97,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,252497,264222,60,151572
+98,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,20725,9558,7,11741
+99,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,96265,160038,48,82468
+100,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,626739,859380,95,238892
+101,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Harlan,162512,266384,63,148856
+102,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,279389,295413,61,158357
+103,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,41307,30612,14,28173
+104,Kentucky (East),Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,145188,229299,77,101750
+105,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,5585,3598,6,2102
+106,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,330678,384088,34,120108
+107,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,159261,158648,25,74296
+108,Kentucky (East),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,5125,30581,14,20396
+109,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,63337,94911,22,50459
+110,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Harlan,249252,147706,50,76715
+111,Kentucky (West),Active,Underground,Operating Subsidiary,Mine only,Illinois Basin,Hopkins,3528289,3934131,423,1070759
+112,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Johnson,5357,4399,2,1370
+113,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Johnson,301807,184892,27,69476
+114,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Johnson,46296,55900,12,25941
+115,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Johnson,5827,11561,7,14722
+116,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Knott,65623,60444,16,28031
+117,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Knott,38227,83321,15,28589
+118,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Knott,96889,101522,33,48923
+119,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Knott,291169,233749,31,78932
+120,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Knott,1170,9630,8,7860
+121,Kentucky (East),"Active, men working, not producing",Underground,Operating Subsidiary,Mine only,Appalachia Central,Knox,35439,49117,19,43394
+122,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Knox,58966,61497,23,56046
+123,Kentucky (East),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Knox,25019,17046,13,8217
+124,Kentucky (East),Temporarily closed,Surface,Contractor,Mine only,Appalachia Central,Knox,45969,45954,5,12555
+125,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Knox,5582,23976,9,10624
+126,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Laurel,800,1137,2,158
+127,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Lawrence,5564,10653,5,9511
+128,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Lawrence,32404,38948,11,20202
+129,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Lawrence,10283,20750,11,13274
+130,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Lawrence,41633,51959,12,23044
+131,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Leslie,367371,489926,108,267109
+132,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Leslie,257774,372708,72,185859
+133,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Leslie,130083,127002,30,61120
+134,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Leslie,156328,135708,21,52440
+135,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Leslie,102333,73604,13,30518
+136,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Leslie,250383,180090,30,67835
+137,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Letcher,302873,319943,47,110055
+138,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Letcher,266340,265721,46,141092
+139,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Letcher,18425,32019,6,11272
+140,Kentucky (West),Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Mclean,1270993,1143347,143,388675
+141,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Magoffin,16679,7411,4,3280
+142,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Magoffin,431755,255194,36,96555
+143,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Magoffin,54793,12309,4,4936
+144,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Martin,40490,78620,17,25894
+145,Kentucky (East),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Martin,104875,127606,18,40876
+146,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Martin,6472,1152,2,1288
+147,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Rare,103558,34769,7,13900
+148,Kentucky (West),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine and Preparation Plant,Illinois Basin,Muhlenberg,1128850,1316036,194,545152
+149,Kentucky (West),Permanently abandoned,Surface,Operating Subsidiary,Mine only,Illinois Basin,Muhlenberg,48545,51290,5,10372
+150,Kentucky (West),Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Muhlenberg,1451591,1143347,146,403273
+151,Kentucky (West),Active,Surface,Indepedent Producer Operator,Mine only,Illinois Basin,Ohio,359453,394331,30,64845
+152,Kentucky (West),Active,Underground,Indepedent Producer Operator,Mine only,Illinois Basin,Ohio,2378909,2276521,242,635398
+153,Kentucky (East),Permanently abandoned,Surface,Operating Subsidiary,Mine only,Appalachia Central,Perry,403735,264058,37,84621
+154,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Perry,395645,278101,53,129911
+155,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,82121,66619,17,32240
+156,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,23192,13677,3,4177
+157,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,229537,407909,87,231204
+158,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,6865,13677,3,3673
+159,Kentucky (East),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Perry,1258750,1118529,113,302483
+160,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,443079,519398,128,343003
+161,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,86005,46553,8,17087
+162,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Perry,533473,411247,81,204981
+163,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,52802,44856,11,17441
+164,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Perry,123098,95676,13,36348
+165,Kentucky (East),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,10888,5518,4,1769
+166,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,93797,103852,29,60265
+167,Kentucky (East),Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,19409,9583,8,9276
+168,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,37212,37299,11,28902
+169,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,4401,5194,6,6319
+170,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,33626,17640,11,15110
+171,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,97157,71757,16,31911
+172,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,17332,22038,4,10288
+173,Kentucky (East),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Pike,182138,364279,41,116732
+174,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,26649,17241,14,12184
+175,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,12743,6657,2,1744
+176,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,3560,6653,2,2007
+177,Kentucky (East),Temporarily closed,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,4363,3581,7,1719
+178,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,448569,426109,93,274630
+179,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,299869,258080,45,128486
+180,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,89825,84647,18,45346
+181,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,127167,242220,32,83813
+182,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,2976,5227,4,2209
+183,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,14675,17241,12,14133
+184,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,211481,184892,29,76967
+185,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,68591,88080,17,45532
+186,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,12817,15499,3,4425
+187,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,77997,71203,19,36214
+188,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,9748,9519,8,15573
+189,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,120772,186436,35,86368
+190,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,171732,180605,26,67057
+191,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,62468,129008,31,70356
+192,Kentucky (East),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Pike,1321340,999144,181,481393
+193,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,9196,43016,9,16968
+194,Kentucky (East),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,98664,122504,37,66906
+195,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,15253,34217,9,14406
+196,Kentucky (East),Temporarily closed,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,3425,8674,9,7876
+197,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,74532,102560,20,51893
+198,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,21762,58509,11,30995
+199,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,9769,10245,8,4811
+200,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,5745,5106,6,7008
+201,Kentucky (East),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,51795,67227,15,34975
+202,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,39655,34769,5,12550
+203,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Pike,108923,157064,24,64755
+204,Kentucky (West),Active,Underground,Operating Subsidiary,Mine only,Illinois Basin,Union,9753472,7543716,664,1638390
+205,Kentucky (West),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Illinois Basin,Webster,2475504,2801285,300,773582
+206,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,9851,9394,2,2134
+207,Kentucky (East),"Active, men working, not producing",Underground,Operating Subsidiary,Mine only,Appalachia Central,Whitley,47634,41212,18,31425
+208,Kentucky (East),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,3630,3745,3,1340
+209,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,86094,30513,13,32304
+210,Kentucky (East),Active,Surface,Contractor,Mine only,Appalachia Central,Whitley,58851,47380,6,7971
+211,Kentucky (East),Temporarily closed,Surface,Contractor,Mine only,Appalachia Central,Whitley,182975,51954,9,23056
+212,Kentucky (East),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,5318,29870,10,24852
+213,Kentucky (East),Active,Surface,Contractor,Mine only,Appalachia Central,Whitley,179801,66595,7,20525
+214,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,57862,27651,5,11137
+215,Kentucky (East),Permanently abandoned,Surface,Operating Subsidiary,Mine only,Appalachia Central,Whitley,37327,52373,20,48047
+216,Kentucky (East),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,49568,23036,4,8500
+217,Kentucky (East),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Whitley,31610,69013,23,48594
+218,Kentucky (East),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Whitley,2887,978,2,209
+219,Louisiana,Active,Surface,Indepedent Producer Operator,Mine only,Interior,De Soto,1275631,3126481,290,660944
+220,Louisiana,Active,Surface,Operating Subsidiary,Mine only,Interior,Natchitoches,207610,178378,32,64519
+221,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,205023,68492,11,29407
+222,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,89099,71954,13,30308
+223,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,31122,38912,10,18795
+224,Maryland,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Allegany,200811,121823,35,59018
+225,Maryland,Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,49252,41177,35,24078
+226,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,195985,71954,13,32614
+227,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,60237,63620,13,29071
+228,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegany,3577,10478,3,3806
+229,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,41809,39428,8,16190
+230,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,4992,10431,5,6478
+231,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,11051,12809,10,5831
+232,Maryland,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,386556,596409,100,236413
+233,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,8314,12740,10,5420
+234,Maryland,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Garrett,10280,5057,4,2280
+235,Mississippi,Active,Surface,Operating Subsidiary,Mine only,Interior,Choctaw,2939738,2099144,199,420424
+236,Missouri,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Bates,258902,188092,16,36566
+237,Montana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Big Horn,4760301,9634786,217,466424
+238,Montana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Big Horn,3827634,5966757,152,298262
+239,Montana,Active,Surface,Indepedent Producer Operator,Mine only,Powder River Basin,Big Horn,13768055,9868537,283,570749
+240,Montana,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Western,Musselshell,7566480,4041181,264,604912
+241,Montana,Active,Surface,Operating Subsidiary,Mine only,Western,Richland,294840,231997,13,26179
+242,Montana,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Rosebud,8392830,10856965,371,686648
+243,New Mexico,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Western,Mckinley,5546491,3470505,251,505976
+244,New Mexico,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Western,San Juan,3397537,5558707,341,745990
+245,New Mexico,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Western,San Juan,1848018,3518752,313,501183
+246,North Dakota,Active,Surface,Operating Subsidiary,Mine only,Western,Mclean,8231213,8176617,468,908399
+247,North Dakota,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Western,Mercer,482680,215730,30,50537
+248,North Dakota,Active,Surface,Operating Subsidiary,Mine only,Western,Mercer,14183313,12424848,457,879590
+249,North Dakota,Active,Surface,Indepedent Producer Operator,Mine only,Western,Mercer,2489357,1838154,114,227834
+250,North Dakota,Active,Surface,Operating Subsidiary,Mine only,Western,Oliver,4256867,3302197,176,335803
+251,Ohio,Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Belmont,447370,569267,91,175194
+252,Ohio,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Harrison,409560,624237,102,232686
+253,Ohio,Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Harrison,569130,425159,68,135124
+254,Ohio,Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Harrison,603599,456745,66,144723
+255,Ohio,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Harrison,262732,91197,15,38519
+256,Ohio,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jackson,4298,4915,1,1746
+257,Ohio,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Monroe,4785568,3614403,352,829554
+258,Ohio,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Noble,400924,350255,44,115017
+259,Ohio,Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Perry,174731,150338,37,61873
+260,Ohio,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Perry,897418,872758,155,337622
+261,Ohio,Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Stark,64713,84591,15,28166
+262,Ohio,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Tuscarawas,3981,69462,21,33724
+263,Ohio,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Tuscarawas,162874,101954,23,46546
+264,Ohio,Permanently abandoned,Surface,Contractor,Mine only,Appalachia Northern,Vinton,51608,69822,10,20660
+265,Ohio,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Vinton,144501,252814,42,102975
+266,Ohio,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Vinton,9764,6231,3,6346
+267,Oklahoma,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Rare,225858,198371,43,97846
+268,Oklahoma,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Latimer,68779,79518,16,41290
+269,Oklahoma,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Interior,Le Flore,109147,28081,8,15799
+270,Oklahoma,Active,Underground,Indepedent Producer Operator,Mine only,Interior,Le Flore,206183,307635,75,176737
+271,Oklahoma,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Okmulgee,80,592,2,265
+272,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Allegheny,4161,2911,3,1800
+273,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,208753,180823,27,59935
+274,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,196877,156973,22,51592
+275,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,226968,218042,34,65773
+276,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,9496,15786,8,14202
+277,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,3740,550,1,130
+278,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Armstrong,21509,9819,3,4291
+279,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Bedford,118097,127924,16,39547
+280,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Butler,225459,50889,25,41527
+281,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Cambria,157593,147700,29,67897
+282,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,139251,171181,28,65281
+283,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,701501,362905,63,160761
+284,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,9385,8920,3,2725
+285,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,9557,4365,3,1364
+286,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,22828,96340,17,38898
+287,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Cambria,13886,12512,4,5027
+288,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Carbon,30182,32766,29,22030
+289,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clarion,7624,10138,2,3740
+290,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clarion,37139,22359,8,8406
+291,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,31194,57975,14,24940
+292,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,30305,57975,15,26625
+293,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,5002,7236,2,3910
+294,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,472,964,1,460
+295,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,2100,6812,3,2289
+296,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,12777,36700,11,17582
+297,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,35326,30297,9,14390
+298,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,27039,49921,8,19862
+299,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,8084,8514,3,4138
+300,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,59608,136386,25,61208
+301,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,30429,44730,7,18739
+302,Pennsylvania (Bituminous),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,15112,10321,3,4777
+303,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,3208,2894,1,2161
+304,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,37916,57975,11,25366
+305,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,2064,1822,2,715
+306,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,24725,23752,8,13630
+307,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,171039,152519,22,49377
+308,Pennsylvania (Bituminous),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Clearfield,221041,290459,38,100368
+309,Pennsylvania (Bituminous),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Clearfield,92548,107907,15,38126
+310,Pennsylvania (Bituminous),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Clearfield,305667,303463,42,107903
+311,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Clearfield,9778,10714,7,5815
+312,Pennsylvania (Bituminous),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,705,611,1,238
+313,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Clearfield,3647,3603,4,1313
+314,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Clearfield,482,8460,4,3754
+315,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Columbia,52351,69953,26,55007
+316,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Dauphin,13216,6054,8,15600
+317,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Fayette,260,3059,3,3186
+318,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Fayette,180,342,4,271
+319,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Fayette,945,558,3,666
+320,Pennsylvania (Bituminous),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Greene,6422579,8557123,765,1619795
+321,Pennsylvania (Bituminous),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Greene,12735390,7476321,667,1597584
+322,Pennsylvania (Bituminous),Permanently abandoned,Underground,Operating Subsidiary,Mine only,Appalachia Northern,Greene,206723,380503,99,162427
+323,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Greene,4980569,2123732,245,577820
+324,Pennsylvania (Bituminous),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Greene,4404054,3671857,386,939241
+325,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,16426,1832,1,167
+326,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,3538,10974,2,3648
+327,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,2596,5510,2,1821
+328,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,4601,7115,2,2408
+329,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,5730,5585,3,996
+330,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,12894,12437,7,7078
+331,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,2535,2467,3,638
+332,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,344055,254146,37,86190
+333,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,145254,135058,19,47459
+334,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,244994,209544,31,70670
+335,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,693995,363913,58,147204
+336,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,2716,3483,2,1667
+337,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,704415,363913,62,143864
+338,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,3988,20822,14,8852
+339,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Indiana,3510,1297,2,308
+340,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,100546,185665,34,81803
+341,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,10852,44053,7,17052
+342,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,33336,9594,2,4814
+343,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,53787,49377,8,21390
+344,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,8324,11202,5,6985
+345,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,5730,7817,3,3840
+346,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,293010,189291,27,65306
+347,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Jefferson,4371,8604,3,3645
+348,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Lackawanna,2825,1484,5,9243
+349,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Luzerne,13893,6008,15,15522
+350,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Luzerne,48358,44028,25,54071
+351,Pennsylvania (Anthracite),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Luzerne,11167,36569,17,38978
+352,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Luzerne,156731,80353,38,71618
+353,Pennsylvania (Anthracite),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Luzerne,25779,29709,16,32708
+354,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Luzerne,1411,7440,4,4452
+355,Pennsylvania (Anthracite),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Luzerne,9266,8011,6,1708
+356,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Lycoming,171833,155541,28,75516
+357,Pennsylvania (Bituminous),Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Mercer,63508,30531,6,10080
+358,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,4753,5484,4,4655
+359,Pennsylvania (Anthracite),Active,Surface,Operating Subsidiary,Mine only,Appalachia Northern,Northumberland,137544,63138,17,31599
+360,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,22688,48827,12,24354
+361,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,5147,2393,2,557
+362,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,9381,5484,4,4980
+363,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,11961,23388,9,11538
+364,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,24648,26652,3,9675
+365,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,26469,19483,8,15630
+366,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,5636,6719,3,1500
+367,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,1017,2479,2,757
+368,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Northumberland,4786,4051,1,1820
+369,Pennsylvania (Anthracite),Active,Surface,Contractor,Mine only,Appalachia Northern,Schuylkill,264303,323285,51,118551
+370,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,19350,6320,8,6952
+371,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,12595,11904,4,5511
+372,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,117939,56401,16,33367
+373,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,203917,95893,28,52423
+374,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,16407,10396,2,7414
+375,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,22302,12411,3,6878
+376,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,9527,12302,3,5356
+377,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,15578,20272,5,10400
+378,Pennsylvania (Anthracite),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,29,665,1,79
+379,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,1152,12302,3,5200
+380,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,7949,4481,4,1754
+381,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,69095,87032,20,50036
+382,Pennsylvania (Anthracite),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,8718,1629,2,827
+383,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,9208,14835,9,15925
+384,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,10851,11949,3,6435
+385,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,176394,37344,10,20557
+386,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,3116,5367,4,5350
+387,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,1456,5047,2,2738
+388,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,1105,1453,1,1190
+389,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,8989,5047,2,2920
+390,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,127200,83639,22,44930
+391,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,1715,2573,2,1057
+392,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,6351,1621,2,718
+393,Pennsylvania (Anthracite),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,63811,49496,10,26657
+394,Pennsylvania (Anthracite),Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,3274,3979,6,9360
+395,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,9049,8423,5,9506
+396,Pennsylvania (Anthracite),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,286,6085,6,6240
+397,Pennsylvania (Bituminous),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,48555,12233,3,4881
+398,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,45592,154717,32,73055
+399,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Somerset,93420,92396,17,37012
+400,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,2618,1149,1,102
+401,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,47151,32849,8,15263
+402,Pennsylvania (Bituminous),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,65791,25936,8,12351
+403,Pennsylvania (Bituminous),"Active, men working, not producing",Underground,Operating Subsidiary,Mine only,Appalachia Northern,Somerset,133747,108871,37,89562
+404,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,57737,15723,3,5755
+405,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,19211,16676,7,8727
+406,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,3435,3072,3,808
+407,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,674161,295209,65,153857
+408,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,32616,140061,29,65079
+409,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,88451,59122,12,31379
+410,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,20486,40696,8,15882
+411,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,375379,411326,83,193744
+412,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,4210,3072,3,804
+413,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,289405,324632,73,172433
+414,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,81445,247874,56,128680
+415,Pennsylvania (Bituminous),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,343147,530138,98,222374
+416,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Somerset,386353,223938,44,88477
+417,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,232950,54891,12,26113
+418,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Somerset,14276,5287,2,1324
+419,Pennsylvania (Bituminous),Active,Underground,Operating Subsidiary,Mine only,Appalachia Northern,Washington,9876324,8655424,597,1447016
+420,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Westmoreland,70520,60622,8,20371
+421,Pennsylvania (Bituminous),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Westmoreland,119888,37690,16,20220
+422,Pennsylvania (Bituminous),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Westmoreland,13813,9621,2,2823
+423,Tennessee,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Campbell,4751,14835,12,8278
+424,Tennessee,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Claiborne,41751,30210,4,9610
+425,Tennessee,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Claiborne,173801,230663,44,109935
+426,Tennessee,Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Claiborne,11727,7426,9,5377
+427,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Atascosa,2977099,4519012,309,737488
+428,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Harrison,3501845,4498235,313,680400
+429,Texas,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Harrison,185097,118709,30,55986
+430,Texas,"Active, men working, not producing",Surface,Operating Subsidiary,Mine only,Interior,Lee,93632,699405,86,196563
+431,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Limestone,8683043,7022142,339,769783
+432,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Rare,2146219,2217489,206,482042
+433,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Panola,2471147,991266,95,220377
+434,Texas,Active,Surface,Indepedent Producer Operator,Mine only,Interior,Robertson,2030297,1116479,95,200945
+435,Texas,Active,Surface,Operating Subsidiary,Mine only,Interior,Rusk,2734143,1997613,173,343769
+436,Utah,Active,Underground,Operating Subsidiary,Mine only,Uinta Region,Carbon,3602708,4762824,348,807347
+437,Utah,Active,Underground,Operating Subsidiary,Mine only,Uinta Region,Carbon,549863,506035,90,172639
+438,Utah,Active,Underground,Indepedent Producer Operator,Mine only,Uinta Region,Carbon,2630631,2127529,207,459205
+439,Utah,Active,Underground,Indepedent Producer Operator,Mine only,Uinta Region,Emery,441876,544941,89,167185
+440,Utah,Active,Underground,Indepedent Producer Operator,Mine only,Uinta Region,Emery,103345,85262,26,19787
+441,Utah,Active,Underground,Indepedent Producer Operator,Mine only,Uinta Region,Emery,892271,766854,73,192838
+442,Utah,Active,Surface,Indepedent Producer Operator,Mine only,Western,Kane,493532,441943,28,89334
+443,Utah,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Uinta Region,Sevier,4904476,5241536,417,877100
+444,Virginia,Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Buchanan,80726,71676,5,14900
+445,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,108112,180348,57,118361
+446,Virginia,Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Central,Buchanan,5188441,4361499,582,1447719
+447,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,115590,239806,79,166274
+448,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,100320,171522,58,112695
+449,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,57216,65037,17,48041
+450,Virginia,Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,21928,8879,14,16451
+451,Virginia,"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,239,3676,3,1968
+452,Virginia,"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,4440,2322,8,2738
+453,Virginia,Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Buchanan,326608,293619,51,127621
+454,Virginia,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,28017,49705,8,22933
+455,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,167534,239806,80,169921
+456,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,33356,36404,15,25234
+457,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,55514,86743,17,44038
+458,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,512325,454189,133,318881
+459,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,130313,66781,13,32666
+460,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,347544,320405,55,148984
+461,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Buchanan,55614,52005,8,21625
+462,Virginia,Permanently abandoned,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,910,3105,7,1806
+463,Virginia,Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Dickenson,708649,799295,126,306943
+464,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,36385,38283,13,22398
+465,Virginia,Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Dickenson,1522940,1871674,331,767503
+466,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,11825,29980,9,7530
+467,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,41228,2458,10,1374
+468,Virginia,Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Dickenson,462158,315785,93,215631
+469,Virginia,Permanently abandoned,Surface,Operating Subsidiary,Mine only,Appalachia Central,Dickenson,125446,136747,26,55294
+470,Virginia,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,96072,96836,20,47456
+471,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Dickenson,165262,227070,55,134736
+472,Virginia,Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Dickenson,170177,165592,35,67757
+473,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Russell,12829,38663,13,9236
+474,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Russell,191768,74374,9,18256
+475,Virginia,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Russell,3367,117356,27,58252
+476,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Tazewell,36583,86627,11,27484
+477,Virginia,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Tazewell,125062,32741,9,16279
+478,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Tazewell,629,21311,3,3760
+479,Virginia,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Tazewell,52266,24253,9,10836
+480,Virginia,Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,9018,2841,3,1940
+481,Virginia,Permanently abandoned,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,156358,95157,23,43061
+482,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,2364,10499,7,9560
+483,Virginia,"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,53766,106467,27,62436
+484,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,214477,262274,70,156023
+485,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,39425,49397,12,26570
+486,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,141309,118242,25,45647
+487,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,243029,187593,49,111516
+488,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,267709,317792,95,226330
+489,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,100423,147036,24,55375
+490,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,111844,121224,36,72250
+491,Virginia,"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,65309,37879,15,28027
+492,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,158457,114143,34,46773
+493,Virginia,Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,51562,44163,20,22080
+494,Virginia,Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,2796,7515,14,8086
+495,West Virginia (Northern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Barbour,1169514,2519927,324,783381
+496,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,15545,116419,21,51308
+497,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Boone,368390,480922,115,264988
+498,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Boone,1107520,986130,125,331816
+499,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Boone,185910,124935,26,50110
+500,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Boone,805504,480922,126,291432
+501,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,36630,69973,11,34063
+502,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,22506,41328,11,16095
+503,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,530580,421380,59,142455
+504,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Boone,333792,480922,127,298204
+505,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Boone,760893,480922,109,245451
+506,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,159134,132432,40,52687
+507,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,81868,141235,19,53760
+508,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Boone,37211,14124,2,5563
+509,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,555,1177,6,1307
+510,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,35169,8426,3,7868
+511,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,481139,830912,166,337996
+512,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,182625,230437,41,85298
+513,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,66420,141981,24,53195
+514,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Fayette,236493,145320,23,58144
+515,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Fayette,183583,298958,69,159156
+516,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Fayette,417412,451349,114,269637
+517,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,21990,9099,2,4635
+518,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Fayette,1542284,1436514,157,381362
+519,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,148342,167031,30,65731
+520,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Fayette,46626,8087,4,7792
+521,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,131051,70974,12,30363
+522,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,105465,73133,20,34515
+523,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,134330,118767,30,48587
+524,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Greenbrier,227070,212924,58,160956
+525,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Greenbrier,309463,413156,52,155026
+526,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,82229,143498,36,56613
+527,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,53281,42546,8,18250
+528,West Virginia (Southern),Temporarily closed,Surface,Operating Subsidiary,Mine only,Appalachia Central,Greenbrier,42564,155620,22,63629
+529,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,13620,31167,9,11370
+530,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Greenbrier,6119,14238,9,7655
+531,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,1516885,2185428,342,783294
+532,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,1305606,1249451,132,333872
+533,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,135105,72967,9,18674
+534,West Virginia (Southern),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Kanawha,71118,85282,17,43186
+535,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,1070511,681690,118,277644
+536,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,498287,681690,128,292317
+537,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,613294,361309,62,141173
+538,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Kanawha,794495,681690,118,280791
+539,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,251803,65371,11,24113
+540,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,257347,34017,15,15240
+541,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,603058,273787,64,154532
+542,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,778051,603605,136,354880
+543,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,352525,341572,71,176354
+544,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Logan,417878,329639,48,100873
+545,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,180504,110668,22,40189
+546,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,6110,37215,6,15711
+547,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Logan,2467478,1771058,205,530663
+548,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,1763202,1770702,312,787678
+549,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Logan,832621,932236,87,241197
+550,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Logan,529987,545794,64,162350
+551,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,1108055,970192,198,572873
+552,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,153134,65371,10,26278
+553,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,461204,500173,113,280022
+554,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,549354,331297,68,163592
+555,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,539184,264597,53,121224
+556,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,314203,296318,68,154279
+557,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Logan,270837,331297,88,159623
+558,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,114629,180901,27,66240
+559,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,259144,145961,39,76935
+560,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,4526,3980,3,630
+561,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,1020,1066,2,80
+562,West Virginia (Southern),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,18641,10756,6,6744
+563,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Central,Mcdowell,15000,29671,32,29427
+564,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,194939,99333,18,47586
+565,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,84556,117877,31,73077
+566,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,101174,200374,38,86529
+567,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,29355,63852,14,36697
+568,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,626752,790437,103,269843
+569,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,47832,43546,22,29433
+570,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,51101,117877,35,72300
+571,West Virginia (Southern),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,193214,248058,74,170024
+572,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Central,Mcdowell,75787,72885,27,56892
+573,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,91071,63852,19,39439
+574,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,99206,71383,27,50876
+575,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,401447,553897,149,326545
+576,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,42331,40290,14,26301
+577,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,9518,11184,6,8053
+578,West Virginia (Southern),"Active, men working, not producing",Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,96994,103560,42,68769
+579,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,498396,600684,81,219885
+580,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,173819,200374,29,86015
+581,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,64839,45133,12,31359
+582,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,57510,70512,21,34881
+583,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,29122,80300,13,35954
+584,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,81487,54141,11,24471
+585,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,26091,30190,8,12291
+586,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,252707,314639,86,192280
+587,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,2145,385,1,57
+588,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,71580,84166,25,57902
+589,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,139099,82648,25,47371
+590,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,32921,28921,12,16255
+591,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mcdowell,80923,127718,37,81053
+592,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Marion,7215143,5860257,454,1106333
+593,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Marion,6133349,5605415,552,1283301
+594,West Virginia (Northern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Marion,156474,41426,6,13095
+595,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Marshall,6509414,5243350,497,1176819
+596,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Marshall,11433840,9186075,835,1941653
+597,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mercer,60522,143731,18,56960
+598,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mingo,288955,303678,29,77240
+599,West Virginia (Southern),"Active, men working, not producing",Surface,Operating Subsidiary,Mine only,Appalachia Central,Mingo,242017,183616,36,79180
+600,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Mingo,172473,93874,11,27041
+601,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Mingo,1054878,748162,141,356169
+602,West Virginia (Southern),Active,Surface,Contractor,Mine only,Appalachia Central,Mingo,448887,476644,44,122218
+603,West Virginia (Southern),Active,Underground,Contractor,Mine only,Appalachia Central,Mingo,37293,117840,34,58949
+604,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mingo,1181759,1329746,92,243804
+605,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Mingo,1008110,646177,122,303222
+606,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mingo,632970,1101243,79,200806
+607,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Mingo,359926,169460,44,82793
+608,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Mingo,176596,67400,6,14536
+609,West Virginia (Northern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Monongalia,14750,9155,3,2880
+610,West Virginia (Northern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Monongalia,31836,13420,3,5040
+611,West Virginia (Northern),Permanently abandoned,Underground,Operating Subsidiary,Mine only,Appalachia Northern,Monongalia,127036,116339,36,56303
+612,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Nicholas,549688,480922,117,275213
+613,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Nicholas,125101,34446,5,13558
+614,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Nicholas,45571,118960,20,47302
+615,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Nicholas,477,6008,6,2570
+616,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine and Preparation Plant,Appalachia Northern,Ohio,6807214,4503004,434,987460
+617,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,1017800,1038426,259,600371
+618,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,256080,324412,77,181834
+619,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,862872,1125265,243,627614
+620,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,780561,909754,115,279635
+621,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,462538,705958,153,336936
+622,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,497293,535424,133,307284
+623,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,773755,443675,128,301240
+624,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,10178,94386,18,41636
+625,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,242535,293875,71,160566
+626,West Virginia (Southern),Temporarily closed,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,18404,13049,10,10154
+627,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Raleigh,1459166,1455339,206,480832
+628,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,1667,11955,2,4044
+629,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,151035,94386,21,38968
+630,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Raleigh,11928,8746,2,3047
+631,West Virginia (Northern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Randolph,354422,766638,113,259159
+632,West Virginia (Northern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Northern,Randolph,6744,19613,12,11201
+633,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Northern,Taylor,3444773,3602231,443,1113142
+634,West Virginia (Northern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Northern,Tucker,2280219,1896665,214,466834
+635,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wayne,6459,13547,9,6063
+636,West Virginia (Northern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Northern,Webster,430263,385910,44,119368
+637,West Virginia (Southern),"Active, men working, not producing",Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wyoming,55736,43061,8,16864
+638,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,106826,65044,8,18138
+639,West Virginia (Southern),"Active, men working, not producing",Surface,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,118225,45776,8,18819
+640,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,515989,465131,127,312580
+641,West Virginia (Southern),"Active, men working, not producing",Underground,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,1016246,1415549,302,691217
+642,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,256422,334269,72,178636
+643,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wyoming,1267728,63756,9,28756
+644,West Virginia (Southern),Active,Surface,Indepedent Producer Operator,Mine only,Appalachia Central,Wyoming,140411,358637,57,125737
+645,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,825143,888553,178,474904
+646,West Virginia (Southern),Active,Surface,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,864044,712365,81,216945
+647,West Virginia (Southern),Active,Underground,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,222895,232734,56,118909
+648,West Virginia (Southern),Active,Underground,Indepedent Producer Operator,Mine only,Appalachia Central,Wyoming,2120,3186,7,2543
+649,West Virginia (Southern),"Active, men working, not producing",Surface,Operating Subsidiary,Mine only,Appalachia Central,Wyoming,96448,115606,21,55947
+650,Wyoming,Active,Surface,Indepedent Producer Operator,Mine only,Powder River Basin,Campbell,4085044,3531840,66,120068
+651,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Campbell,18467405,15267062,256,538623
+652,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Campbell,71134606,77251778,1188,2394618
+653,Wyoming,Active,Surface,Indepedent Producer Operator,Mine only,Powder River Basin,Campbell,12609413,16215847,318,611685
+654,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Campbell,9504750,7309250,110,226061
+655,Wyoming,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Powder River Basin,Campbell,11333467,10260677,168,347242
+656,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Campbell,17055796,17762775,307,628130
+657,Wyoming,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Powder River Basin,Campbell,13508689,10449728,191,405754
+658,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Powder River Basin,Campbell,7987838,9244853,144,304207
+659,Wyoming,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Powder River Basin,Campbell,98315794,80271244,1308,2821174
+660,Wyoming,Active,Surface,Indepedent Producer Operator,Mine and Preparation Plant,Powder River Basin,Campbell,6304022,4962898,83,174417
+661,Wyoming,Active,Surface,Indepedent Producer Operator,Mine only,Powder River Basin,Converse,23155741,26156966,567,1149470
+662,Wyoming,Active,Surface,Operating Subsidiary,Mine and Preparation Plant,Western,Lincoln,4016923,4483627,289,587792
+663,Wyoming,Active,Surface,Operating Subsidiary,Mine only,Western,Sweetwater,1997883,3028801,229,454863
+664,Wyoming,Active,Surface,Operating Subsidiary,Mine only,Western,Sweetwater,2499798,2552765,165,311524
+665,Wyoming,Active,Underground,Operating Subsidiary,Mine only,Western,Sweetwater,2210433,1818792,169,345251
+666,Refuse Recovery,"New, under construction",Refuse,Indepedent Producer Operator,Mine only,Appalachia Central,Logan,161180,65075,5,13000
+667,Refuse Recovery,Active,Refuse,Indepedent Producer Operator,Mine only,Appalachia Central,Floyd,80456,33327,5,8428
+668,Refuse Recovery,Active,Refuse,Indepedent Producer Operator,Mine only,Appalachia Northern,Luzerne,4748,7741,2,1205
+669,Refuse Recovery,Temporarily closed,Refuse,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Northumberland,304,4209,3,1420
+670,Refuse Recovery,Active,Refuse,Indepedent Producer Operator,Mine and Preparation Plant,Appalachia Northern,Northumberland,12762,20606,6,10536
+671,Refuse Recovery,"Active, men working, not producing",Refuse,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,43101,50976,12,24246
+672,Refuse Recovery,Active,Refuse,Indepedent Producer Operator,Mine only,Appalachia Northern,Schuylkill,24248,12217,4,6737
+673,Refuse Recovery,Active,Refuse,Indepedent Producer Operator,Mine only,Illinois Basin,Perry,567,169387,7,17296
+674,Refuse Recovery,"Active, men working, not producing",Refuse,Indepedent Producer Operator,Mine only,Illinois Basin,Saline,24176,15887,6,5741
+675,Refuse Recovery,Active,Refuse,Operating Subsidiary,Mine only,Appalachia Central,Pike,77210,159301,23,47488
+676,Refuse Recovery,Permanently abandoned,Refuse,Operating Subsidiary,Mine only,Appalachia Central,Wise,148330,65735,6,10889
+677,Refuse Recovery,Permanently abandoned,Refuse,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,49577,23745,5,3271
+678,Refuse Recovery,Permanently abandoned,Refuse,Indepedent Producer Operator,Mine only,Appalachia Central,Wise,98914,33603,10,9019
